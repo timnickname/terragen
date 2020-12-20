@@ -14,7 +14,7 @@ public class Main {
 		terragen.heightmap[0][16] = 5;
 		terragen.heightmap[16][0] = 1;
 		terragen.heightmap[16][16] = 3;
-		terragen.diamond(0,4);
+		terragen.diamond(0,16);
 		terragen.toString();
 		terragen.visualize();
 
